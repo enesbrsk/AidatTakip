@@ -1,0 +1,16 @@
+c:\users\enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\bin\Debug\AidatTakip.exe.config
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\bin\Debug\AidatTakip.exe
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\bin\Debug\AidatTakip.pdb
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.csprojResolveAssemblyReference.cache
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.Form1.resources
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.Properties.Resources.resources
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.csproj.GenerateResource.Cache
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.exe
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.pdb
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.anasayfa.resources
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.BinaT.resources
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.kiracı.resources
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.kullanici.resources
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.aidatTakip.resources
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.aidatOdeme.resources
+C:\Users\Enescobar\documents\visual studio 2015\Projects\AidatTakip\AidatTakip\obj\Debug\AidatTakip.tahsilat.resources
